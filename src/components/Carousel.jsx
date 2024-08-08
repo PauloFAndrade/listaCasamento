@@ -1,10 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 const images = [
-  { src: './images/carrossel01.jpeg', alt: 'Image 1' },
-  { src: './images/carrossel02.jpeg', alt: 'Image 2' },
-  { src: './images/carrossel03.jpeg', alt: 'Image 3' },
-  { src: './images/carrossel04.jpeg', alt: 'Image 4' },
+  { src: '/images/carrossel01.jpeg', alt: 'Image 1' },
+  { src: '/images/carrossel02.jpeg', alt: 'Image 2' },
+  { src: '/images/carrossel03.jpeg', alt: 'Image 3' },
+  { src: '/images/carrossel04.jpeg', alt: 'Image 4' },
 ];
 
 const Carousel = () => {

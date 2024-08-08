@@ -56,7 +56,7 @@ const App = () => {
       <div className='py-16 w-full bg-[#EBF4FF] h-auto flex flex-col items-center justify-center'>
         <div className='w-[102px] h-[136px] mb-8' style={{ backgroundImage: `url(${backgroundImageUp})`, backgroundSize: 'cover', backgroundPosition: 'center' }}></div>
         <h2 className='text-2xl font-semibold text-center text-[#5D758D] mb-12'>CERIMÔNIA</h2>
-        <img className='w-[22rem] md:w-[56rem] mb-8' src='./images/igreja.jpeg'/>
+        <img className='w-[22rem] md:w-[56rem] mb-8' src='/images/igreja.jpeg'/>
         <div className='text-[#404951] max-w-4xl text-justify md:text-base px-5 text-sm'>Gostaríamos muito de contar com a presença de todos vocês no momento em que nossa união será abençoada diante de Deus!</div>
         <div className='text-[#404951] max-w-4xl text-justify mb-8 md:text-base px-5 text-sm'>A cerimônia será rápida e tentaremos ser extremamente pontuais. Contamos com vocês! Dia 19 de outubro de 2024, às 10hrs da manhã. Paróquia Nossa Senhora Da Conceição, Santa Maria/RN, 59464000, Centro.</div>
         <div className='w-[22rem] md:w-[56rem]'>
@@ -74,7 +74,7 @@ const App = () => {
       <div className='py-16 w-full bg-white h-auto flex flex-col items-center justify-center'>
         <div className='w-[102px] h-[136px] mb-8' style={{ backgroundImage: `url(${backgroundImageUp})`, backgroundSize: 'cover', backgroundPosition: 'center' }}></div>
         <h2 className='text-2xl font-semibold text-center text-[#5D758D] mb-12'>RECEPÇÃO</h2>
-        <img className='w-[22rem] md:w-[56rem] mb-8' src='./images/recepcao.jpeg'/>
+        <img className='w-[22rem] md:w-[56rem] mb-8' src='/images/recepcao.jpeg'/>
         <div className='text-[#404951] max-w-4xl text-justify mb-8 md:text-base px-5 text-sm'>Os noivos convidam para recepção logo após a cerimônia, no dia 19 de outubro de 2024, no restaurante Xique Xique, localizado em Santa maria/RN, Centro, 59464000.
 </div>
         <div className='w-[22rem] md:w-[56rem]'>
