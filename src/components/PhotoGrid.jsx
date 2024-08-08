@@ -1,16 +1,16 @@
 import React from 'react';
 
 const padrinhos = [
-  { id: 1, name: "Andressa e Alessandro", imgSrc: "/images/padrinhos01.jpeg" },
-  { id: 2, name: "Emmilly e Alan", imgSrc: "/images/padrinhos02.jpeg" },
-  { id: 3, name: "Igor", imgSrc: "/images/padrinhos03.jpeg" },
-  { id: 4, name: "Junior", imgSrc: "/images/padrinhos04.jpeg" },
-  { id: 5, name: "Marcio", imgSrc: "/images/padrinhos05.jpeg" },
-  { id: 6, name: "Catiane", imgSrc: "/images/padrinhos06.jpeg" },
-  { id: 7, name: "Cristina", imgSrc: "/images/padrinhos07.jpeg" },
-  { id: 8, name: "Natalia", imgSrc: "/images/padrinhos08.jpeg" },
-  { id: 9, name: "Ana Marcia", imgSrc: "/images/padrinhos09.jpeg" },
-  { id: 10, name: "Deassis", imgSrc: "/images/padrinhos10.jpeg" }
+  { id: 1, name: "Andressa e Alessandro", imgSrc: "./images/padrinhos01.jpeg" },
+  { id: 2, name: "Emmilly e Alan", imgSrc: "./images/padrinhos02.jpeg" },
+  { id: 3, name: "Igor", imgSrc: "./images/padrinhos03.jpeg" },
+  { id: 4, name: "Junior", imgSrc: "./images/padrinhos04.jpeg" },
+  { id: 5, name: "Marcio", imgSrc: "./images/padrinhos05.jpeg" },
+  { id: 6, name: "Catiane", imgSrc: "./images/padrinhos06.jpeg" },
+  { id: 7, name: "Cristina", imgSrc: "./images/padrinhos07.jpeg" },
+  { id: 8, name: "Natalia", imgSrc: "./images/padrinhos08.jpeg" },
+  { id: 9, name: "Ana Marcia", imgSrc: "./images/padrinhos09.jpeg" },
+  { id: 10, name: "Deassis", imgSrc: "./images/padrinhos10.jpeg" }
 ];
 
 const PhotoGrid = () => {
