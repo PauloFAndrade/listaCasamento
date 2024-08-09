@@ -27,14 +27,14 @@ const gifts = [
     image: './images/presente04N.jpg',
     description: 'Cesta de Café da Manhã do Dia Seguinte',
     price: 'R$ 165,00',
-    qrcode: './images/qrcode/qrcode01.jpeg',
+    qrcode: './images/qrcode/qrcode40.jpeg',
     copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406165.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***630453CA',
   },
   {
     image: './images/presente05.jpg',
     description: 'Aluguel de um bebê para treinamento',
     price: 'R$ 310,00',
-    qrcode: './images/qrcode/qrcode13.jpeg',
+    qrcode: './images/qrcode/qrcode60.jpeg',
     copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406310.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***63042B1E',
   },
   {
@@ -62,7 +62,7 @@ const gifts = [
     image: './images/presente09.jpg',
     description: 'Conjunto de controle remotos para não ter briga',
     price: 'R$ 185,00',
-    qrcode: './images/qrcode/qrcode03.jpeg',
+    qrcode: './images/qrcode/qrcode50.jpeg',
     copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406185.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***6304943A',
   },
   {
@@ -97,7 +97,7 @@ const gifts = [
     image: './images/presenteParaguai.jpg',
     description: 'Ajuda para comprinhas no Paraguai',
     price: 'R$ 600,00',
-    qrcode: './images/qrcode/qrcode20.jpeg',
+    qrcode: './images/qrcode/qrcode30.jpeg',
     copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406600.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***6304EC7D',
   },
   {
