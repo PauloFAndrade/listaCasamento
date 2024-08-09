@@ -26,16 +26,16 @@ const gifts = [
   {
     image: './images/presente04N.jpg',
     description: 'Cesta de Café da Manhã do Dia Seguinte',
-    price: 'R$ 160,00',
+    price: 'R$ 165,00',
     qrcode: './images/qrcode/qrcode01.jpeg',
-    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406160.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***63043D08',
+    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406165.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***630453CA',
   },
   {
     image: './images/presente05.jpg',
     description: 'Aluguel de um bebê para treinamento',
-    price: 'R$ 300,00',
+    price: 'R$ 310,00',
     qrcode: './images/qrcode/qrcode13.jpeg',
-    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406300.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***63043D56',
+    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406310.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***63042B1E',
   },
   {
     image: './images/presente210.jpg',
@@ -61,9 +61,9 @@ const gifts = [
   {
     image: './images/presente09.jpg',
     description: 'Conjunto de controle remotos para não ter briga',
-    price: 'R$ 180,00',
+    price: 'R$ 185,00',
     qrcode: './images/qrcode/qrcode03.jpeg',
-    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406180.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***6304FAF8',
+    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406185.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***6304943A',
   },
   {
     image: './images/presente10.jpg',
@@ -96,9 +96,9 @@ const gifts = [
   {
     image: './images/presenteParaguai.jpg',
     description: 'Ajuda para comprinhas no Paraguai',
-    price: 'R$ 500,00',
+    price: 'R$ 600,00',
     qrcode: './images/qrcode/qrcode20.jpeg',
-    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406500.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***6304A364',
+    copiaecola: '00020126580014br.gov.bcb.pix0136fc1d14fd-705d-4ac8-8315-e4e87f232c915204000053039865406600.005802BR5924Gertrudes Souza Patricio6009Sao Paulo62070503***6304EC7D',
   },
   {
     image: './images/presenteRoteiro.png',
